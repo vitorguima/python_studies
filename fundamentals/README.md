@@ -12,6 +12,8 @@ player = ("vitor", 18)
 ```
 
 ## Set
+A collection of unique and non ordered elements. Allows to implement operations like intersection, difference and union.
+
 ```
 male_players = {"vitor", "lucas"}
 female_players = {"luana", "vitor"}
